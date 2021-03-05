@@ -1,4 +1,4 @@
-baseURL = "https://bitecross.co.uk"
+baseURL = "https://bitecross.co.uk/"
 languageCode = "en-uk"
 title = "Whitecross Street Market"
 theme = "hugrid"
