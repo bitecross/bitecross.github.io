@@ -25,7 +25,7 @@ subtitle = "The City's Best Food Market"
     bodybgcolor = "#f9f9f9"
 
     # Preview container button text
-    buttontext = "Website"
+    buttontext = "Website/Social"
 
     # Footer text
     footertext = "[Google Maps Link](https://goo.gl/maps/9y5GTSCi6K2art888). See the [Whitecross Street Market Facebook Group](https://en-gb.facebook.com/groups/77923624125/) for more. Check Islington Council's [website](https://www.islington.gov.uk/business/licences-permits-registration/trading-on-our-streets/market-trading) or [email them](mailto:street.trading@islington.gov.uk) to apply for a pitch. "
