@@ -6,7 +6,7 @@ theme = "hugrid"
 
 # Site settings
 # Enter your tracking code to enable Google Analytics
-# googleAnalytics = "UA-XXXXXXXX-Y"
+googleAnalytics = "UA-55020274-1"
 
 contentdir = "content"
 datadir = "data"
@@ -15,20 +15,20 @@ publishdir = "public"
 
 [params]
     # Meta
-title = "Whitecross Street Market"
-subtitle = "The City's Best Food Market"
+title = "Whitecross Street Food Market"
+subtitle = "Every weekday lunchtime on [whitecross street](https://goo.gl/maps/9y5GTSCi6K2art888). "
     author = "Harald"
-    description = "Hugrid - grid theme for Hugo with an expanding image preview."
+    description = "Weekday London City Food market, at Whitecross Street.  "
     keywords = "London, Food Market, Whitecross Street Market"
 
     # Body background color
-    bodybgcolor = "#f9f9f9"
 
     # Preview container button text
     buttontext = "Website/Social"
 
     # Footer text
-    footertext = "[Google Maps Link](https://goo.gl/maps/9y5GTSCi6K2art888). See the [Whitecross Street Market Facebook Group](https://en-gb.facebook.com/groups/77923624125/) for more. Check Islington Council's [website](https://www.islington.gov.uk/business/licences-permits-registration/trading-on-our-streets/market-trading) or [email them](mailto:street.trading@islington.gov.uk) to apply for a pitch. "
+    footertext = "See the [Whitecross Street Market Facebook Group](https://en-gb.facebook.com/groups/77923624125/) for more info. Check Islington Council's [website](https://www.islington.gov.uk/business/licences-permits-registration/trading-on-our-streets/market-trading) or [email them](mailto:street.trading@islington.gov.uk) to apply for a pitch. "
 
     # add extra-css
     # custom_css = ['css/extra1.css', 'css/extra2.css']
+custom_css = ['css/bitecross.css']
