@@ -27,7 +27,7 @@ subtitle = "Every weekday lunchtime on [whitecross street](https://goo.gl/maps/9
     buttontext = "Website/Social"
 
     # Footer text
-    footertext = "[Enquire](mailto:contact@bitecross.co.uk) about paid advertising on this site.  See the [Whitecross Street Market Facebook Group](https://en-gb.facebook.com/groups/77923624125/) for more info on the market. Check Islington Council's [website](https://www.islington.gov.uk/business/licences-permits-registration/trading-on-our-streets/market-trading) or [email them](mailto:street.trading@islington.gov.uk) to apply for a pitch. "
+    footertext = "More info on the [Facebook Group](https://en-gb.facebook.com/groups/77923624125/). Check Islington Council's [website](https://www.islington.gov.uk/business/licences-permits-registration/trading-on-our-streets/market-trading) or [email them](mailto:street.trading@islington.gov.uk) to apply for a pitch. <br /> [Enquire](mailto:contact@bitecross.co.uk) about paid advertising on this site.  Suggest changes on [github](https://github.com/bitecross/bitecross.github.io)."
 
     # add extra-css
     # custom_css = ['css/extra1.css', 'css/extra2.css']
