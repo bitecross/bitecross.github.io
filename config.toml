@@ -16,7 +16,7 @@ publishdir = "public"
 [params]
     # Meta
 title = "Whitecross Street Food Market"
-subtitle = "Every weekday lunchtime on [whitecross street](https://goo.gl/maps/9y5GTSCi6K2art888). "
+subtitle = "Every weekday lunchtime on [whitecross street](https://goo.gl/maps/9y5GTSCi6K2art888). Find out more about this year's Whitecross Street Party (9-10 July 2022) [here](https://www.wxstreetparty.co.uk). "
     author = "Harald"
     description = "Weekday London City Food market, at Whitecross Street.  "
     keywords = "London, Food Market, Whitecross Street Market"
