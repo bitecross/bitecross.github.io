@@ -1,4 +1,11 @@
 [[items]]
+title = "Lam Lam Mooncakes"
+image = "images/full/lamlam.jpg"
+thumb = "images/thumbs/lamlam.jpg"
+alt = "Lam Lam Mooncakes"
+description = "Incredibly delicious traditional Chinese mooncakes, hand-made for the Mid Autumn Festival by a friend of the site. Collection options in the city, Canary Wharf, and elsewhere. "
+url = "https://lamlam.uk"
+[[items]]
 title = "Bubble Wrap"
 image = "images/full/bubble_wrap.jpg"
 thumb = "images/thumbs/bubble_wrap.jpg"
